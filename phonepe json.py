@@ -1,5 +1,6 @@
 !pip install pandas gitpython
-!pip install pandas as ps
+!pip install pandas
+!pip install glob2
 
 import os
 import json
